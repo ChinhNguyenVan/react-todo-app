@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/island/static/css/main.89e75b4c.css",
+    "main.js": "/island/static/js/main.984b184a.js",
+    "static/js/787.7f2c2da0.chunk.js": "/island/static/js/787.7f2c2da0.chunk.js",
+    "index.html": "/island/index.html",
+    "main.89e75b4c.css.map": "/island/static/css/main.89e75b4c.css.map",
+    "main.984b184a.js.map": "/island/static/js/main.984b184a.js.map",
+    "787.7f2c2da0.chunk.js.map": "/island/static/js/787.7f2c2da0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89e75b4c.css",
+    "static/js/main.984b184a.js"
+  ]
+}
